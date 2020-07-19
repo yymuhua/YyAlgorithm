@@ -9,16 +9,14 @@ package com.learn.algorithm.math;
  * @create 2020-04-16 17:32
  */
 public class Sqrt2 {
-    public static void main(String[] args) {
-        System.out.println(sqrt(2));
-    }
-
-    public static final double e = 0.00001;// 精度要求
+    // 精度要求
+    public static final double e = 0.00001;
 
     public static double sqrt(int n) {
         double res = n >= 1 ? n : 1;
-        while (Math.abs(res * res - n) > e)
+        while (Math.abs(res * res - n) > e) {
             res = 0.5 * (res + n / res);
+        }
         return res;
     }
 }
