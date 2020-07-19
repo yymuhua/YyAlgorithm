@@ -112,18 +112,32 @@ public class BinarySearch {
      */
     public int search(int[] nums, int target) {
         int N;
-        if (nums == null || (N = nums.length) == 0) return -1;
+        if (nums == null || (N = nums.length) == 0) {
+            return -1;
+        }
         int left = 0;
         int right = N - 1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (nums[mid] == target) return mid;
-            if (nums[mid] >= nums[left]) { // 前半部分有序
-                if (nums[mid] > target && target >= nums[left]) right = mid - 1; // 位于有序部分
-                else left = mid + 1;
-            } else { // 后半部分有序
-                if (nums[mid] < target && target <= nums[right]) left = mid + 1; // 位于有序部分
-                else right = mid - 1;
+            if (nums[mid] == target) {
+                return mid;
+            }
+            // 前半部分有序
+            if (nums[mid] >= nums[left]) {
+                if (nums[mid] > target && target >= nums[left]) {
+                    // 位于有序部分
+                    right = mid - 1;
+                } else {
+                    left = mid + 1;
+                }
+            // 后半部分有序
+            } else {
+                if (nums[mid] < target && target <= nums[right]) {
+                    // 位于有序部分
+                    left = mid + 1;
+                } else {
+                    right = mid - 1;
+                }
             }
         }
         return -1;
@@ -139,22 +153,35 @@ public class BinarySearch {
      */
     public boolean search1(int[] nums, int target) {
         int N;
-        if (nums == null || (N = nums.length) == 0) return false;
+        if (nums == null || (N = nums.length) == 0) {
+            return false;
+        }
         int left = 0;
         int right = N - 1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (nums[mid] == target) return true;
-            if (nums[left] == nums[mid]) { // 退化为线性搜索
+            if (nums[mid] == target) {
+                return true;
+            }
+            // 退化为线性搜索
+            if (nums[left] == nums[mid]) {
                 left++;
                 continue;
             }
-            if (nums[mid] > nums[left]) { // 前半部分有序
-                if (nums[mid] > target && target >= nums[left]) right = mid - 1;
-                else left = mid + 1;
-            } else { // 后半部分有序
-                if (nums[mid] < target && target <= nums[right]) left = mid + 1;
-                else right = mid - 1;
+            // 前半部分有序
+            if (nums[mid] > nums[left]) {
+                if (nums[mid] > target && target >= nums[left]) {
+                    right = mid - 1;
+                } else {
+                    left = mid + 1;
+                }
+            // 后半部分有序
+            } else {
+                if (nums[mid] < target && target <= nums[right]) {
+                    left = mid + 1;
+                } else {
+                    right = mid - 1;
+                }
             }
         }
         return false;
