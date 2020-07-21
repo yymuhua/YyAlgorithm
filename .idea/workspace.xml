@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be981785-8098-4eed-8b84-3b8e271d50b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/TopK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl1/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl1/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl1/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl1/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl1/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/SortUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/SortUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/FlashMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/FlashMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/Day3_20_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/Day3_20_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/Day3_20_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/Day3_20_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/Day3_27_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/Day3_27_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/Day3_30_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/Day3_30_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/Day3_30_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/Day3_30_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/Day4_3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/Day4_3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/Day4_3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/Day4_3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/SelectCap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/SelectCap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/day4_13/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/day4_13/p1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/alibaba/day4_13/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/alibaba/day4_13/p2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/btyedance/day4_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/btyedance/day4_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/btyedance/day4_12/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/btyedance/day4_12/p1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/btyedance/day4_12/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/btyedance/day4_12/p2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/btyedance/day4_12/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/btyedance/day4_12/p3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/btyedance/day4_12/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/btyedance/day4_12/p4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/btyedance/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/btyedance/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/btyedance/test/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/btyedance/test/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/kuaishou/k2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/kuaishou/k2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/kuaishou/k3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/kuaishou/k3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/kuaishou/k4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/kuaishou/k4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/meituan/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/meituan/p3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/meituan/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/meituan/p4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/meituan/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/meituan/p5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/meituan/package1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/meituan/package1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/meituan/package2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/meituan/package2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/pdd/t1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/pdd/t1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/pdd/t2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/pdd/t2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/pdd/t3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/pdd/t3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/pdd/t4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/pdd/t4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/webank/t1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/webank/t1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/webank/t2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/webank/t2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/webank/t3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/webank/t3/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -9,7 +93,122 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1etSbkNl2H4uAz4kZzimXG0CjBt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.sort.test.Test" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.algorithm.sort.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be981785-8098-4eed-8b84-3b8e271d50b0" name="Default Changelist" comment="" />
+      <created>1595139469572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595139469572</updated>
+      <workItem from="1595139471006" duration="10933000" />
+      <workItem from="1595254525058" duration="7800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1595260888606">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="533" y="149" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595260888606" />
+    <state x="-741" y="598" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595168558328">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-741" y="598" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595168558328" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1595296944030">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595296944030" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595261767678" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1595296944030">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595296944030" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595261767676" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1595296944028">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595296944028" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595261767676" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1595296944030">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595296944030" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595261767676" />
+    <state x="-1920" y="243" key="SettingsEditor" timestamp="1595163162841">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1920" y="243" key="SettingsEditor/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595163162841" />
+    <state x="-1262" y="359" width="586" height="490" key="find.popup" timestamp="1595264480091">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1262" y="359" width="586" height="490" key="find.popup/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595264480091" />
+    <state x="-1153" y="406" key="new project wizard" timestamp="1595139526266">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1153" y="406" key="new project wizard/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595139526266" />
   </component>
 </project>

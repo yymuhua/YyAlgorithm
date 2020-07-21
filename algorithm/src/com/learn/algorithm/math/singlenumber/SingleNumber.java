@@ -39,13 +39,15 @@ public class SingleNumber {
             for (int num : nums) {
                 sum += (num >> i) & 1;
             }
-            if (sum % 3 != 0) res |= (1 << i);
+            if (sum % 3 != 0) {
+                res |= (1 << i);
+            }
         }
         return res;
     }
 
     /**
-     * LeetCode 260. 非空数组恰好有两个数组只出现了一次，其他的都出现了两次。求这两个数字
+     * LeetCode 260. 非空数组恰好有两个数只出现了一次，其他的都出现了两次。求这两个数字
      * 思路：按照LeetCode 136的思路，如果能将这两个数字分别分到两个数组中，就可以解决。
      *
      * @param nums
@@ -68,6 +70,6 @@ public class SingleNumber {
                 y ^= num;
             }
         }
-        return new int[]{x, y};
+        return new int[] {x, y};
     }
 }

@@ -15,9 +15,10 @@ public class SortUtils {
      * @param index2
      */
     public static void swap(int[] arr, int index1, int index2) {
-        if (index1 == index2) return;
-        int temp = arr[index1];
-        arr[index1] = arr[index2];
-        arr[index2] = temp;
+        if (index1 != index2) {
+            int temp = arr[index1];
+            arr[index1] = arr[index2];
+            arr[index2] = temp;
+        }
     }
 }

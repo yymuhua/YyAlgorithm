@@ -12,8 +12,9 @@ import com.learn.algorithm.sort.SortUtils;
 public class SelectSort implements Sort {
     @Override
     public int[] sort(int[] nums) {
-        if (nums == null || nums.length <= 1)
+        if (nums == null || nums.length <= 1) {
             return nums;
+        }
         int N = nums.length;
         for (int i = 0; i < N - 1; i++) {
             // 每次都选择一个最小的数放到 i 的位置上

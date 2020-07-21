@@ -11,17 +11,21 @@ import com.learn.algorithm.sort.Sort;
 public class QuickSort implements Sort {
     @Override
     public int[] sort(int[] nums) {
-        if (nums == null || nums.length <= 1)
+        if (nums == null || nums.length <= 1) {
             return nums;
+        }
         int N = nums.length;
         quickHelper(nums, 0, N);
         return nums;
     }
 
     private void quickHelper(int[] nums, int start, int end) {
-        if (end - start <= 1) return;
+        if (end - start <= 1) {
+            return;
+        }
         // 将索引 index 位置的元素放到合适的位置
-        int keyIndex = start; // 如果选择其他的位置只需要多一步swap即可
+        // 如果选择其他的位置只需要多一步swap即可
+        int keyIndex = start;
         int keyNum = nums[keyIndex];
         int left = start;
         int right = end - 1;

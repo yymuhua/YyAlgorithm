@@ -1,7 +1,7 @@
 package com.learn.algorithm.sort.test;
 
 import com.learn.algorithm.sort.Sort;
-import com.learn.algorithm.sort.impl.*;
+import com.learn.algorithm.sort.impl1.*;
 
 import java.util.Arrays;
 
@@ -24,17 +24,17 @@ public class Test {
     }
 
     public static void main(String[] args) {
-//        int len = (int) (Math.random() * 100);
-//        int[] numa1 = new int[len];
-//        int[] numa2 = new int[len];
-//
-//        for(int i = 0; i < len; i++) {
-//            numa1[i] = -1000 + (int) (Math.random() * 2000);
-//            numa2[i] = numa1[i];
-//        }
-//        int[] resa = sort.sort(numa1);
-//        System.out.println(Arrays.toString(resa));
-//        Arrays.sort(numa2);
-//        System.out.println(Arrays.compare(resa, numa2));
+        int len = 20;
+        int[] numa1 = new int[len];
+        int[] numa2 = new int[len];
+
+        for(int i = 0; i < len; i++) {
+            numa1[i] = -1000 + (int) (Math.random() * 2000);
+            numa2[i] = numa1[i];
+        }
+        int[] resa = sort.sort(numa1);
+        System.out.println(Arrays.toString(resa));
+        Arrays.sort(numa2);
+        System.out.println(Arrays.toString(numa2));
     }
 }

@@ -12,9 +12,10 @@ public class InsertSort implements Sort {
 
     @Override
     public int[] sort(int[] nums) {
-        if (nums == null || nums.length <= 1)
+        int N;
+        if (nums == null || (N = nums.length) <= 1) {
             return nums;
-        int N = nums.length;
+        }
         for (int i = 1; i < N; i++) {
             // 每次都将元素nums[i]放到前面 0 -> i - 1 的有序数组合适位置中
             // 具体的方式为把大于curr的都后移一格，直到遇到第一个小于等于curr的，把curr插入到它后面
@@ -26,7 +27,7 @@ public class InsertSort implements Sort {
                     nums[aimIndex + 1] = nums[aimIndex];
                 } else {
                     // 此处即为 nums[i] 的合适位置
-                    break;
+                    break ;
                 }
                 aimIndex--;
             }

@@ -12,11 +12,11 @@ import com.learn.algorithm.sort.SortUtils;
 public class BubbleSort implements Sort {
     @Override
     public int[] sort(int[] nums) {
-        if (nums == null || nums.length <= 1) {
+        int N;
+        if (nums == null || (N = nums.length) <= 1) {
             return nums;
         }
 
-        int N = nums.length;
         for (int i = 0; i < N - 1; i++) {
             // 每次最小的元素都会上浮到索引 i 处
             boolean sorted = true; // 一次交换都没有发生表示排序已经完成
@@ -27,7 +27,7 @@ public class BubbleSort implements Sort {
                 }
             }
             if (sorted) {
-                break;
+                break ;
             }
         }
         return nums;
