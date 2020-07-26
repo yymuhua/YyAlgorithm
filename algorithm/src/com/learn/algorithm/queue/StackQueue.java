@@ -2,6 +2,7 @@ package com.learn.algorithm.queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.LinkedList;
 
 /**
  * 用栈实现队列

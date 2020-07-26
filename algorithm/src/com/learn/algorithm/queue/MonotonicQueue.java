@@ -28,7 +28,9 @@ public class MonotonicQueue {
 
     // 返回当前队列中的最⼤值
     int max() {
-        if (deque.isEmpty()) return -1;
+        if (deque.isEmpty()) {
+            return -1;
+        }
         return deque.getFirst();
     }
 

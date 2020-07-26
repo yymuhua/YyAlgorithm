@@ -18,7 +18,9 @@ public class MinStack {
      */
     public int largestRectangleArea(int[] A) {
         int N;
-        if (A == null || (N = A.length) == 0) return 0;
+        if (A == null || (N = A.length) == 0) {
+            return 0;
+        }
         int res = 0;
 
         int[] newHeights = new int[N + 2];

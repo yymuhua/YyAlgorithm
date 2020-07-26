@@ -135,5 +135,6 @@ public class BackTrack {
     public static void main(String[] args) {
         Solution s = new BackTrack().new Solution();
         s.combinationSum2(new int[]{1, 1, 2, 2, 5}, 5);
+        Arrays.sort(new int[][]{new int[]{1, 2}}, (num1, num2) -> ("" + num1 + num2).compareTo("" + num2 + num1));
     }
 }

@@ -11,8 +11,12 @@ import java.util.LinkedList;
 public class LeastK {
     public int shortestSubarray(int[] A, int K) {
         int N;
-        if (A == null || (N = A.length) == 0) return -1;
-        if (A[0] >= K) return 1;
+        if (A == null || (N = A.length) == 0) {
+            return -1;
+        }
+        if (A[0] >= K) {
+            return 1;
+        }
         int[] prefixSum = new int[N]; // 前缀和
         prefixSum[0] = A[0];
         for (int i = 1; i < N; i++) {

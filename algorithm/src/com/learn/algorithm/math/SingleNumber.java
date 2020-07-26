@@ -1,4 +1,4 @@
-package com.learn.algorithm.math.singlenumber;
+package com.learn.algorithm.math;
 
 /**
  * 只出现一次的数字

@@ -1,5 +1,8 @@
 package com.learn.algorithm.dp;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 /**
  * 股票买卖问题：prices为市价
  * i 代表时间，k代表已经完成的交易次数（一次完整的买卖），0/1代表未持有/持有股票，dp的值代表获利
