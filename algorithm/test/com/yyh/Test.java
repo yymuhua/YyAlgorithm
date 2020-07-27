@@ -10,6 +10,6 @@ import com.learn.algorithm.TreeNode;
 public class Test {
     public static Solution sol = new Solution();
     public static void main(String[] args) {
-        System.out.println(sol.splitArray(new int[]{7,2,5,10,8}, 2));
+        System.out.println(sol.maximalSquare(new int[][]{{7,2,5,10,8}}));
     }
 }

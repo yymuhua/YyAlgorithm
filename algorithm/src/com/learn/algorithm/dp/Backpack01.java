@@ -47,8 +47,8 @@ public class Backpack01 {
         if (W == null || W.length == 0)
             return 0;
         int N = W.length;
-        // 考虑到状态转移方程中dp[i]只与dp[i-1]相关，因此可以省去这一个维度
-        // ！！前提，更新dp[i]的时候dp[i - 1]一定不能更新（确保它还是上一行），因此需要反着遍历
+        // 考虑到状态转移方程中dp[i][j]只与dp[i-1][j]相关，因此可以省去i这一个维度
+        // ！！前提，更新dp[i][j]的时候dp[i - 1][j]一定不能更新（确保它还是上一行），因此需要反着遍历
         int[] dp = new int[C + 1];
 
         for (int i = 1; i <= N; i++) {

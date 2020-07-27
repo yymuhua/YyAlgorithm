@@ -1,9 +1,8 @@
 package com.yyh;
 
-import com.learn.algorithm.TreeNode;
+import com.learn.algorithm.*;
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 
 /**
  * @author yeyuhua
@@ -11,24 +10,38 @@ import java.util.Arrays;
  * @created 2020/7/24 12:37 上午
  */
 public class Solution {
-    public int splitArray(int[] nums, int m) {
-        int n = nums.length;
-        // dp[i][j] 表示前i个数字被分为j个区间的此问题解
-        int[][] dp = new int[n + 1][m + 1];
-        // 初值
-        for (int i = 0; i <= n; i++) {
-            Arrays.fill(dp[i], Integer.MAX_VALUE);
+
+    public int rob2(int[] nums) {
+        int N;
+        if (nums == null || (N = nums.length) == 0) {
+            return 0;
         }
-        dp[0][0] = 0;
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= Math.min(i, m); j++) {
-                int sum = nums[i - 1];
-                for (int k = i - 1; k > 0; k--) {
-                    dp[i][j] = Math.min(dp[i][j], Math.max(dp[k][j - 1], sum));
-                    sum += nums[k - 1];
-                }
-            }
+        // 从 0 偷到 n - 2
+        int from0Ton2 = robHelper(nums, 0, N - 2);
+        // 从 1 偷到 n - 1
+        int from1Ton1 = robHelper(nums, 1, N - 1);
+        return Math.max(from0Ton2, from1Ton1);
+    }
+
+    /**
+     * [start, end] 区间能偷得的最大金额
+     * @param nums
+     * @param start
+     * @param end
+     * @return
+     */
+    private int robHelper(int[] nums, int start, int end) {
+        if (start > end) {
+            return 0;
         }
-        return dp[n][m];
+        // dp[i] 代表从 i 开始偷能偷得的最大金额
+        int dp1 = nums[end];
+        int dp2 = 0;
+        for (int i = end - 1; i >= start; i--) {
+            int temp = dp1;
+            dp1 = Math.max(dp1, nums[i] + dp2);
+            dp2 = temp;
+        }
+        return dp1;
     }
 }

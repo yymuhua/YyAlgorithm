@@ -20,13 +20,16 @@ public class KeyBoard {
      */
     public static int maxA(int N) {
         // 这个算法基于这样⼀个事实， 最优按键序列⼀定只有两种情况：
-        // 要么⼀直按 A ： A,A,...A（当 N ⽐较⼩时） 。
+        // 要么⼀直按 A： A,A,...A（当 N ⽐较⼩时） 。
         // 要么是这么⼀个形式： A,A,...C-A,C-C,C-V,C-V,...C-V（当 N ⽐较⼤时） 。
-        int[] dp = new int[N + 1]; // dp[i] 表示 i 次操作之后能显示多少 A
+
+        // dp[i] 表示 i 次操作之后能显示多少 A
+        int[] dp = new int[N + 1];
         // base case
-        dp[0] = 0; // 初始状态
+        dp[0] = 0;
         for (int i = 1; i <= N; i++) {
-            dp[i] = 1 + dp[i - 1]; // 情况1：一直按A
+            // 情况1：一直按A
+            dp[i] = 1 + dp[i - 1];
             for (int j = 2; j < i; j++) {
                 // 情况2：从位置 j 开始粘贴，后面一直粘贴
                 dp[i] = Math.max(dp[i], dp[j - 2] * (i - j + 1));

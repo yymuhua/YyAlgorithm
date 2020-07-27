@@ -14,27 +14,30 @@ public class SumRange {
 /**
  * leetcode 303
  * 给定一个整数数组  nums，求出数组从索引 i 到 j  (i ≤ j) 范围内元素的总和，包含 i,  j 两点。
+ * nums.length > 0
  * 思路：维护一个前缀和数组！
  */
 class NumArray {
-    private int[] sumPrefix; // sumPrefix[i] 代表 [0, i] 之和
+    private int[] prefixSum; // sumPrefix[i] 代表 [0, i] 之和
     private int N;
 
     public NumArray(int[] nums) {
         N = nums.length;
-        int sum = 0;
-        sumPrefix = new int[N];
-        for (int i = 0; i < N; i++) {
-            sum += nums[i];
-            sumPrefix[i] = sum;
+        prefixSum = new int[N];
+        prefixSum[0] = 0;
+        for (int i = 1; i < N; i++) {
+            prefixSum[i] = prefixSum[i - 1] + nums[i];
         }
     }
 
     public int sumRange(int i, int j) {
-        if (i < 0 || i >= N || j < 0 || j >= N || i > j)
+        if (i < 0 || i >= N || j < 0 || j >= N || i > j) {
             return 0;
+        }
 
-        if (i == 0) return sumPrefix[j];
-        return sumPrefix[j] - sumPrefix[i - 1];
+        if (i == 0) {
+            return prefixSum[j];
+        }
+        return prefixSum[j] - prefixSum[i - 1];
     }
 }

@@ -22,40 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be981785-8098-4eed-8b84-3b8e271d50b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/CuttingRope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/queue/MaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/tree/CodecTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/tree/SubStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test/com/yyh/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/backtrack/BackTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/backtrack/BackTrack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/backtrack/EightQueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/backtrack/EightQueen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/concurrent/ABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/concurrent/ABC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/MinPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/StockTrading.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/StockTrading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/math/singlenumber/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/math/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/math/uglynum/UglyNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/math/UglyNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/queue/LeastK.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/queue/LeastK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/queue/MonotonicQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/queue/MonotonicQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/queue/StackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/queue/StackQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/stack/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/stack/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/test/com/yyh/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/test/com/yyh/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/backtrack/BackTrack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/backtrack/BackTrack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/concurrent/ABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/concurrent/ABC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/dp/MinPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/dp/MinPathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/dp/StockTrading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/dp/StockTrading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/math/singlenumber/SingleNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/math/uglynum/UglyNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/queue/LeastK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/queue/LeastK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/queue/MonotonicQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/queue/MonotonicQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/queue/StackQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/queue/StackQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/sort/impl1/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/sort/impl1/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/stack/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/stack/MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Test.class" afterDir="false" />
-    </list>
+    <list default="true" id="be981785-8098-4eed-8b84-3b8e271d50b0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +150,7 @@
       <workItem from="1595339959455" duration="2958000" />
       <workItem from="1595427786248" duration="1282000" />
       <workItem from="1595473656093" duration="16200000" />
-      <workItem from="1595565173204" duration="15169000" />
+      <workItem from="1595565173204" duration="19246000" />
     </task>
     <servers />
   </component>
@@ -203,57 +170,62 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1595260888606">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="-1209" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1595695844333">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state x="-1209" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595695844333" />
     <state x="533" y="149" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595260888606" />
     <state x="-741" y="598" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595168558328">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-741" y="598" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595168558328" />
-    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1595690481910">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1595776173986">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595690481910" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595501162175" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595693809054" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595776173986" />
     <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1595491952986" />
-    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1595690481908">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1595776173985">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595690481908" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595501162174" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595693809053" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595776173985" />
     <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1595491952985" />
-    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1595690481908">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1595776173985">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595690481908" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595501162174" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595693809050" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595776173985" />
     <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1595491952985" />
-    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1595690481909">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1595776173986">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595690481909" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595501162175" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595693809054" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595776173986" />
     <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1595491952986" />
-    <state width="1398" height="372" key="GridCell.Tab.1.bottom" timestamp="1595669315076">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1398" height="372" key="GridCell.Tab.1.bottom" timestamp="1595776173980">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1398" height="372" key="GridCell.Tab.1.bottom/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595669315076" />
+    <state width="1398" height="372" key="GridCell.Tab.1.bottom/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595776173980" />
     <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1595491952987" />
-    <state width="1398" height="372" key="GridCell.Tab.1.center" timestamp="1595669315074">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1398" height="372" key="GridCell.Tab.1.center" timestamp="1595776173980">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1398" height="372" key="GridCell.Tab.1.center/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595669315074" />
+    <state width="1398" height="372" key="GridCell.Tab.1.center/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595776173980" />
     <state width="1398" height="265" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1595491952986" />
-    <state width="1398" height="372" key="GridCell.Tab.1.left" timestamp="1595669315074">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1398" height="372" key="GridCell.Tab.1.left" timestamp="1595776173980">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1398" height="372" key="GridCell.Tab.1.left/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595669315074" />
+    <state width="1398" height="372" key="GridCell.Tab.1.left/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595776173980" />
     <state width="1398" height="265" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1595491952986" />
-    <state width="1398" height="372" key="GridCell.Tab.1.right" timestamp="1595669315075">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1398" height="372" key="GridCell.Tab.1.right" timestamp="1595776173980">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1398" height="372" key="GridCell.Tab.1.right/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595669315075" />
+    <state width="1398" height="372" key="GridCell.Tab.1.right/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1595776173980" />
     <state width="1398" height="265" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1595491952987" />
     <state x="-1689" y="215" key="SettingsEditor" timestamp="1595669338267">
       <screen x="-1920" y="23" width="1920" height="1057" />

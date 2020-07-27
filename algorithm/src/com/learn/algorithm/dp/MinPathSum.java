@@ -16,18 +16,15 @@ public class MinPathSum {
         if (nums == null || (M = nums.length) == 0 || (N = nums[0].length) == 0) {
             return 0;
         }
-        for (int i = 0; i < M; i++) {
-            for (int j = 0; j < N; j++) {
-                if (i != 0 && j != 0) {
-                    int adder = Integer.MAX_VALUE;
-                    if (i - 1 >= 0) {
-                        adder = Math.min(adder, nums[i - 1][j]);
-                    }
-                    if (j - 1 >= 0) {
-                        adder = Math.min(adder, nums[i][j - 1]);
-                    }
-                    nums[i][j] += adder;
-                }
+        for (int i = 1; i < M; i++) {
+            nums[i][0] += nums[i - 1][0];
+        }
+        for (int j = 1; j < N; j++) {
+            nums[0][j] += nums[0][j - 1];
+        }
+        for (int i = 1; i < M; i++) {
+            for (int j = 1; j < N; j++) {
+                nums[i][j] += Math.min(nums[i - 1][j], nums[i][j - 1]);
             }
         }
         return nums[M - 1][N - 1];

@@ -25,10 +25,12 @@ public class EditDistance {
      * @return
      */
     public static int minDistance(String word1, String word2) {
-        if (word1 == null || word1.length() == 0)
+        if (word1 == null || word1.length() == 0) {
             return word2 == null ? 0 : word2.length();
-        if (word2 == null || word2.length() == 0)
+        }
+        if (word2 == null || word2.length() == 0) {
             return word1.length();
+        }
         int m = word1.length();
         int n = word2.length();
         // 定义 dp[i][j] 为 word1.substring(0, i), word2.substring(0, j) 的距离
