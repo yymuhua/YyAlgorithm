@@ -23,31 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be981785-8098-4eed-8b84-3b8e271d50b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/RainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/Dividing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/pdd/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/pdd/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/pdd/t3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/pdd/t4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/wangyi/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/wangyi/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/wangyi/t3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/wangyi/t4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/yuandudao/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/yuandudao/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/yuandudao/t3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/concurrent/DiningPhilosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/concurrent/DiningPhilosophers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/greedy/Intvs.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/greedy/Intvs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/pdd/t3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/spring2020/pdd/t3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/test/com/yyh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/test/com/yyh/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm/test/com/yyh/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/test/com/yyh/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm/test/com/yyh/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/test/com/yyh/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/concurrent/DiningPhilosophers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/concurrent/DiningPhilosophers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/concurrent/Philosopher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/greedy/Intvs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/greedy/Intvs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/exam/spring2020/pdd/t3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/exam/spring2020/pdd/t3/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Test.class" afterDir="false" />
@@ -76,6 +54,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1435" />
+    <option name="height" value="1050" />
+  </component>
   <component name="ProjectId" id="1etSbkNl2H4uAz4kZzimXG0CjBt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -91,6 +75,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597340537222" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm/src" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -109,13 +94,13 @@
       <recent name="$PROJECT_DIR$/algorithm/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.exam.autumn2020.wangyi.t1.Main" />
+  <component name="RunManager" selected="Application.FastPow">
+    <configuration name="FastPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.search.FastPow" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.exam.autumn2020.wangyi.t1.*" />
+          <option name="PATTERN" value="com.learn.algorithm.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.concurrent.NumberAdd" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.Test" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.algorithm.concurrent.*" />
+          <option name="PATTERN" value="com.yyh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FastPow" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.NumberAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +191,7 @@
       <workItem from="1596553648912" duration="6928000" />
       <workItem from="1596766243229" duration="57000" />
       <workItem from="1596787933108" duration="3237000" />
-      <workItem from="1596869879912" duration="9778000" />
+      <workItem from="1596869879912" duration="14643000" />
     </task>
     <servers />
   </component>
@@ -243,30 +228,34 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="483" y="146" key="#xdebugger.evaluate/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1596286274540" />
-    <state width="1398" height="159" key="GridCell.Tab.0.bottom" timestamp="1596960946350">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1398" height="158" key="GridCell.Tab.0.bottom" timestamp="1597323151767">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
+    <state width="1398" height="158" key="GridCell.Tab.0.bottom/0.23.1440.825/-1920.23.1920.1057@0.23.1440.825" timestamp="1597323151767" />
     <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595693809054" />
     <state width="1398" height="159" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1596960946350" />
-    <state width="1398" height="159" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1596874948464" />
-    <state width="1398" height="159" key="GridCell.Tab.0.center" timestamp="1596960946349">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1398" height="159" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1597286496581" />
+    <state width="1398" height="158" key="GridCell.Tab.0.center" timestamp="1597323151765">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
+    <state width="1398" height="158" key="GridCell.Tab.0.center/0.23.1440.825/-1920.23.1920.1057@0.23.1440.825" timestamp="1597323151765" />
     <state width="1398" height="235" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595693809053" />
     <state width="1398" height="159" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1596960946349" />
-    <state width="1398" height="159" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1596874948464" />
-    <state width="1398" height="159" key="GridCell.Tab.0.left" timestamp="1596960946348">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1398" height="159" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1597286496580" />
+    <state width="1398" height="158" key="GridCell.Tab.0.left" timestamp="1597323151764">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
+    <state width="1398" height="158" key="GridCell.Tab.0.left/0.23.1440.825/-1920.23.1920.1057@0.23.1440.825" timestamp="1597323151764" />
     <state width="1398" height="235" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595693809050" />
     <state width="1398" height="159" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1596960946348" />
-    <state width="1398" height="159" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1596874948463" />
-    <state width="1398" height="159" key="GridCell.Tab.0.right" timestamp="1596960946349">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1398" height="159" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1597286496579" />
+    <state width="1398" height="158" key="GridCell.Tab.0.right" timestamp="1597323151767">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
+    <state width="1398" height="158" key="GridCell.Tab.0.right/0.23.1440.825/-1920.23.1920.1057@0.23.1440.825" timestamp="1597323151767" />
     <state width="1398" height="235" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1595693809054" />
     <state width="1398" height="159" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1596960946349" />
-    <state width="1398" height="159" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1596874948464" />
+    <state width="1398" height="159" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1597286496580" />
     <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1596712310602">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -348,11 +337,6 @@
           <url>file://$PROJECT_DIR$/algorithm/test/com/yyh/Test.java</url>
           <line>12</line>
           <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithm/test/com/yyh/Solution.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
