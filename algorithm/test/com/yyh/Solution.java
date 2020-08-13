@@ -9,25 +9,47 @@ import java.util.*;
  * @version 1.0
  * @created 2020/7/24 12:37 上午
  */
-public class Solution {
-    public int jump(int[] nums) {
-        // 每次都跳到区间里可达最远的点
+class Solution {
+    boolean[] learnable;
+    public boolean canFinish(int numCourses, int[][] A) {
         int N;
-        if (nums == null || (N = nums.length) <= 1) {
-            return 0;
+        if (A == null || (N = A.length) <= 1) {
+            return true;
         }
-        int start = 0;
-        int range = nums[0];
-        int cnt = 1;
-        while (range < N - 1) {
-            int newRange = range;
-            for (int i = start; i <= range; i++) {
-                newRange = Math.max(newRange, start + nums[i]);
+        learnable = new boolean[numCourses];
+        // 保存课程的所有前置课程
+        Map<Integer, List<Integer>> preMap = new HashMap<>();
+        for (int i = 0; i < N; i++) {
+            if (preMap.containsKey(A[i][0])) {
+                preMap.get(A[i][0]).add(A[i][1]);
+            } else {
+                List<Integer> list = new ArrayList<>();
+                list.add(A[i][1]);
+                preMap.put(A[i][0], list);
             }
-            range = newRange;
-            start = range;
-            cnt++;
         }
-        return cnt;
+        for (Integer course : preMap.keySet()) {
+            if (!learnable[course] && circled(course, preMap, new HashSet<>())) {
+                return false;
+            }
+        }
+        return true;
+    }
+    private boolean circled(Integer root, Map<Integer, List<Integer>> preMap, Set<Integer> set) {
+        if (set.contains(root)) {
+            return true;
+        }
+        // 判断当前这门课能否修完
+        if (preMap.keySet().contains(root)) {
+            set.add(root);
+            for (Integer course : preMap.get(root)) {
+                if (circled(course, preMap, set)) {
+                    return true;
+                }
+            }
+            set.remove(root);
+        }
+        learnable[root] = true;
+        return false;
     }
 }

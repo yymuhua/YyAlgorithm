@@ -1,8 +1,6 @@
 package com.learn.algorithm.greedy;
 
-import java.util.Arrays;
-import java.util.PriorityQueue;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * 相交区间问题（区间调度问题）：
@@ -112,7 +110,36 @@ public class Intvs {
         return -1;
     }
 
-    public static void main(String[] args) {
-        minTaps(5, new int[] {3, 4, 1, 1, 0, 0});
+    /**
+     * LeetCode 56. 合并区间
+     * @param intervals
+     * @return
+     */
+    public int[][] merge(int[][] intervals) {
+        int N;
+        if (intervals == null || (N = intervals.length) <= 1) {
+            return intervals;
+        }
+        // 按左边界排序
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        List<int[]> res = new ArrayList<>();
+        int x = 0;
+        while (x < N) {
+            int y = x + 1;
+            while (y < N && cover(intervals[x], intervals[y])) {
+                intervals[x][0] = Math.min(intervals[x][0], intervals[y][0]);
+                intervals[x][1] = Math.max(intervals[x][1], intervals[y][1]);
+                y++;
+            }
+            res.add(intervals[x]);
+            x = y;
+        }
+        return res.toArray(new int[res.size()][2]);
+    }
+    private boolean cover(int[] x, int[] y) {
+        if (x[0] > y[1] || x[1] < y[0]) {
+            return false;
+        }
+        return true;
     }
 }

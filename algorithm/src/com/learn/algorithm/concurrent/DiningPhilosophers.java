@@ -17,7 +17,6 @@ public class DiningPhilosophers {
     public static Semaphore sema = new Semaphore(4);
 
     public static void main(String[] args) {
-        Philosopher[] philosophers = new Philosopher[5];
         for (int i = 0; i < 5; i++) {
             int finalI = i;
             new Thread(() -> {
@@ -40,8 +39,4 @@ public class DiningPhilosophers {
             }).start();
         }
     }
-}
-
-class Philosopher {
-
 }
