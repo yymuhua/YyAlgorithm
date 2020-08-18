@@ -31,19 +31,6 @@ public class HeapSort implements Sort {
     }
 
     /**
-     * 由无序的数组构建大顶堆
-     *
-     * @param nums
-     */
-    private void buildHeap(int[] nums) {
-        int N = nums.length;
-        // 从后往前的第一个非叶子节点为起点，不断调整直到根
-        for (int i = N / 2 - 1; i >= 0; i--) {
-            adjustHeap(nums, i, N);
-        }
-    }
-
-    /**
      * 调整堆的部分使该部分仍然保持大顶堆的特性：确保start是start -> end的最大值
      *
      * @param nums
@@ -63,6 +50,19 @@ public class HeapSort implements Sort {
         if (largest != start) {
             SortUtils.swap(nums, start, largest);
             adjustHeap(nums, largest, end);
+        }
+    }
+
+    /**
+     * 由无序的数组构建大顶堆
+     *
+     * @param nums
+     */
+    private void buildHeap(int[] nums) {
+        int N = nums.length;
+        // 从后往前的第一个非叶子节点为起点，不断调整直到根
+        for (int i = N / 2 - 1; i >= 0; i--) {
+            adjustHeap(nums, i, N);
         }
     }
 }

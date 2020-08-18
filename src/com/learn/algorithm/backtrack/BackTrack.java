@@ -3,7 +3,7 @@ package com.learn.algorithm.backtrack;
 import java.util.*;
 
 /**
- * 回溯算法
+ * 回溯算法：排列组合
  * @author yymuhua
  * @create 2020-04-07 16:16
  */
@@ -87,43 +87,6 @@ public class BackTrack {
         return res;
     }
 
-    /**
-     * LeetCode 40. 组合总数：给定一个数组 nums 和一个目标数 target ，
-     * 找出 nums 中所有可以使数字和为 target 的组合。
-     * nums 中的每个数字在每个组合中只能使用一次。
-     * 所有数均为正数
-     */
-    class Solution {
-        private int[] A;
-        private int N;
-        public List<List<Integer>> combinationSum2(int[] nums, int target) {
-            if((A = nums) == null || (N = A.length) == 0) return new ArrayList<>();
-            Arrays.sort(A);
-            return dfs(target, 0);
-        }
-        private List<List<Integer>> dfs(int target, int start) {
-            List<List<Integer>> res = new ArrayList<>();
-            for(int i = start; i < N; i++) {
-                if(i != start && A[i] == A[i - 1]) continue; // 去重
-                if(A[i] <= target) {
-                    if(A[i] == target) {
-                        List<Integer> list = new ArrayList<>();
-                        list.add(target);
-                        res.add(list);
-                        break;
-                    }else {
-                        // A[i] < target
-                        List<List<Integer>> lists = dfs(target - A[i], i + 1);
-                        for(List<Integer> list : lists) {
-                            list.add(A[i]);
-                            res.add(list);
-                        }
-                    }
-                }
-            }
-            return res;
-        }
-    }
 
     public static void main(String[] args) {
         Solution s = new BackTrack().new Solution();

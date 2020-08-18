@@ -43,6 +43,10 @@ public class NextPermutation {
         }
     }
 
+    /**
+     * 前一个排列
+     * @param nums
+     */
     public static void prePermutation(int[] nums) {
         int N;
         if (nums == null || (N = nums.length) <= 1) return;
