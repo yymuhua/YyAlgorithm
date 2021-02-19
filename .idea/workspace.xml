@@ -23,38 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be981785-8098-4eed-8b84-3b8e271d50b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/ChangeCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/alibaba/Day0731.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/alibaba/day0720/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/alibaba/day0720/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/alibaba/day0727/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/alibaba/day0731/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/alibaba/day0731/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/alibaba/day0810/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/alibaba/day0810/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/meituan/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/meituan/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/meituan/t3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/meituan/t4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/meituan/t5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/tencent/day0817/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/tencent/day0817/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/tencent/day0817/t4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/tencent/day0817/t5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NextPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/test/com/yyh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/test/com/yyh/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/array/NextPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/array/NextPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/sort/impl/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/sort/impl/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/sort/test/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/learn/algorithm/sort/test/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/algorithm/com/yyh/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/learn/algorithm/backtrack/BackTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learn/algorithm/backtrack/BackTrack.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,40 +49,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/KeyBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/Backpack01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/ChangeCoins.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="75" column="15" lean-forward="true" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
-              <folding>
-                <element signature="e#2061#2062#0" expanded="true" />
-                <element signature="e#2126#2127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-504">
+            <state relative-caret-position="153">
               <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -122,11 +60,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/subsequence/LCS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NextPermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-264">
+              <caret line="70" column="26" lean-forward="true" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-263">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/RainWater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -134,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
+            <state relative-caret-position="765">
               <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -146,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="357">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="3638">
               <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
             </state>
           </provider>
@@ -167,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/backtrack/BackTrack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="129" column="13" lean-forward="true" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+            <state relative-caret-position="2193">
+              <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -176,7 +141,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/CuttingRope.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="170">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
@@ -210,7 +175,6 @@
       <list>
         <option value="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/test/Test1.java" />
         <option value="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/sort/impl/HeapSort.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NextPermutation.java" />
         <option value="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/meituan/t3/Main.java" />
         <option value="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/meituan/t2/Main.java" />
         <option value="$PROJECT_DIR$/algorithm/src/com/learn/exam/autumn2020/meituan/t4/Main.java" />
@@ -235,6 +199,7 @@
         <option value="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb3.java" />
         <option value="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb1.java" />
         <option value="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb2.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NextPermutation.java" />
       </list>
     </option>
   </component>
@@ -267,159 +232,43 @@
         <subPane>
           <expand>
             <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="YyAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YyAlgorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="YyAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YyAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="YyAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YyAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="YyAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YyAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="YyAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YyAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="backtrack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="YyAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YyAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dfs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dfs" type="462c0819:PsiDirectoryNode" />
-              <item name="combination" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="subsequence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="substring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="unionfind" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="unionfind" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-              <item name="autumn2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-              <item name="autumn2020" type="462c0819:PsiDirectoryNode" />
-              <item name="day0817" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-              <item name="spring2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="yyh" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -572,17 +421,27 @@
       <workItem from="1597340390880" duration="1354000" />
       <workItem from="1597407667358" duration="2327000" />
       <workItem from="1597452922194" duration="41560000" />
+      <workItem from="1613741715124" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45241000" />
+    <option name="totallyTimeSpent" value="45875000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="879" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21313673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32521316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -591,7 +450,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32991204" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.47124305" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -599,8 +458,8 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32844576" />
-      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3320965" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3283859" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -837,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1051,45 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/CuttingRope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/KeyBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/Backpack01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/ChangeCoins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="75" column="15" lean-forward="true" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
-          <folding>
-            <element signature="e#2061#2062#0" expanded="true" />
-            <element signature="e#2126#2127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/learn/algorithm/backtrack/BackTrack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1097,17 +910,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/backtrack/BackTrack.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/KeyBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="129" column="13" lean-forward="true" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb3.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/Backpack01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/ChangeCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="15" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1116,7 +943,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
+        <state relative-caret-position="765">
           <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1124,20 +951,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb1.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dfs/combination/Comb3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="357">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3638">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/backtrack/BackTrack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/CuttingRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/dp/subsequence/LCS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="70" column="26" lean-forward="true" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/NSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/com/learn/algorithm/array/RainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
