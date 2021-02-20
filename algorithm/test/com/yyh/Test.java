@@ -11,10 +11,7 @@ public class Test {
     public static Solution sol = new Solution();
     public static void main(String[] args) {
         System.out.println(sol.convert("leetcode", 3));
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println("C");
-        System.out.println("test2");
-
+        // a
+        // b
     }
 }
