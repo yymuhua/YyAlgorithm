@@ -13,6 +13,7 @@ public class Test {
         System.out.println(sol.convert("leetcode", 3));
         System.out.println("A");
         System.out.println("B");
+        System.out.println("C");
 
     }
 }
